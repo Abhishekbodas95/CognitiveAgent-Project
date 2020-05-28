@@ -1,0 +1,1284 @@
+<?xml version="1.0"?>
+<SituationKB version="1.0">
+<GlobalHypothesesClasses>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="0" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Norton" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="4">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O3" />
+              <InstanceReference name="Dashlane" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="1" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="2" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="APKMirror" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="4">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O3" />
+              <InstanceReference name="Mario" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="3" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="4" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+</GlobalHypothesesClasses>
+<GlobalArgumentsClasses>
+<GlobalArgumentClass_AdditionalInfo>
+      <GlobalArgumentClassReference kbPartName="User" index="0" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Norton" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalArgumentClass_AdditionalInfo>
+<GlobalArgumentClass_AdditionalInfo>
+      <GlobalArgumentClassReference kbPartName="User" index="1" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Dashlane" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalArgumentClass_AdditionalInfo>
+<GlobalArgumentClass_AdditionalInfo>
+      <GlobalArgumentClassReference kbPartName="User" index="2" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalArgumentClass_AdditionalInfo>
+<GlobalArgumentClass_AdditionalInfo>
+      <GlobalArgumentClassReference kbPartName="User" index="3" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Android Pie" />
+              <FormalParameterReference name="?O3" />
+              <InstanceReference name="Gmail" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalArgumentClass_AdditionalInfo>
+<GlobalArgumentClass_AdditionalInfo>
+      <GlobalArgumentClassReference kbPartName="User" index="4" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="APKMirror" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalArgumentClass_AdditionalInfo>
+<GlobalArgumentClass_AdditionalInfo>
+      <GlobalArgumentClassReference kbPartName="User" index="5" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Mario" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalArgumentClass_AdditionalInfo>
+<GlobalArgumentClass_AdditionalInfo>
+      <GlobalArgumentClassReference kbPartName="User" index="6" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bob" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalArgumentClass_AdditionalInfo>
+</GlobalArgumentsClasses>
+<SituationExamples>
+<SituationExample version="1.0" index="0">
+      <NLPattern>
+        <Fragments>
+          <String>Security in Bob's android phone</String>
+        </Fragments>
+      </NLPattern>
+      <NLPattern>
+        <Fragments />
+      </NLPattern>
+    </SituationExample>
+</SituationExamples>
+<IntelligenceQuestionExamples>
+<IntelligenceQuestionExample version="1.1" index="0" main="true">
+      <NLPattern>
+        <Fragments>
+          <String>Is data stored in </String>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> mobile phone secure?</String>
+        </Fragments>
+      </NLPattern>
+      <SituationExampleReference version="1.0" kbPartName="Scen" index="0" />
+    </IntelligenceQuestionExample>
+</IntelligenceQuestionExamples>
+<HypothesisExamples>
+<HypothesisExample version="1.0" index="0" negation="false">
+      <NLPattern>
+        <Fragments>
+          <String>Data stored in </String>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> phone is secure</String>
+        </Fragments>
+      </NLPattern>
+      <IntelligenceQuestionExampleReference version="1.1" kbPartName="Scen" index="0" />
+      <ContextHypothesisClassReferenceForGlobalHypothesis index="0">
+        <GlobalHypothesisClassReference kbPartName="User" index="4" />
+      </ContextHypothesisClassReferenceForGlobalHypothesis>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="5" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> uses </String>
+          <OntologyEntity>
+            <ConceptReference name="data security apps" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalHypothesis index="0">
+        <GlobalHypothesisClassReference kbPartName="User" index="0" />
+      </ContextHypothesisClassReferenceForGlobalHypothesis>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="6" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> uses </String>
+          <OntologyEntity>
+            <ConceptReference name="antivirus apps" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="1">
+        <GlobalArgumentClassReference kbPartName="User" index="0" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Norton" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="7" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> uses </String>
+          <OntologyEntity>
+            <InstanceReference name="Norton" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="3">
+        <GlobalArgumentClassReference kbPartName="User" index="0" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Norton" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="8" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> uses </String>
+          <OntologyEntity>
+            <InstanceReference name="Dashlane" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="3">
+        <GlobalArgumentClassReference kbPartName="User" index="1" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Dashlane" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="9" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> uses </String>
+          <OntologyEntity>
+            <ConceptReference name="password manager apps" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="1">
+        <GlobalArgumentClassReference kbPartName="User" index="1" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Dashlane" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="11" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> downloads unathorized files</String>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalHypothesis index="0">
+        <GlobalHypothesisClassReference kbPartName="User" index="2" />
+      </ContextHypothesisClassReferenceForGlobalHypothesis>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="15" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> downloads </String>
+          <OntologyEntity>
+            <ConceptReference name="third-party files" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="1">
+        <GlobalArgumentClassReference kbPartName="User" index="4" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="APKMirror" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="16" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> downloads </String>
+          <OntologyEntity>
+            <InstanceReference name="APKMirror" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="3">
+        <GlobalArgumentClassReference kbPartName="User" index="4" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="APKMirror" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="17" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> downloads </String>
+          <OntologyEntity>
+            <ConceptReference name="torrent files" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="1">
+        <GlobalArgumentClassReference kbPartName="User" index="5" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Mario" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="19" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> downloads pirated </String>
+          <OntologyEntity>
+            <InstanceReference name="Mario" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="3">
+        <GlobalArgumentClassReference kbPartName="User" index="5" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Mario" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="20" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets </String>
+          <OntologyEntity>
+            <ConceptReference name="security settings" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalHypothesis index="0">
+        <GlobalHypothesisClassReference kbPartName="User" index="1" />
+      </ContextHypothesisClassReferenceForGlobalHypothesis>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="21" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets </String>
+          <OntologyEntity>
+            <ConceptReference name="complex pattern" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="3">
+        <GlobalArgumentClassReference kbPartName="User" index="2" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="24" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets off </String>
+          <OntologyEntity>
+            <ConceptReference name="software updates" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="1">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="25" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets </String>
+          <OntologyEntity>
+            <ConceptReference name="screen lock" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="1">
+        <GlobalArgumentClassReference kbPartName="User" index="2" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="26" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets </String>
+          <OntologyEntity>
+            <ConceptReference name="face recognition" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="5">
+        <GlobalArgumentClassReference kbPartName="User" index="2" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="27" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets off </String>
+          <OntologyEntity>
+            <ConceptReference name="OS updates" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="3">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="28" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets off </String>
+          <OntologyEntity>
+            <ConceptReference name="app updates" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="7">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="29" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> tampers with OS</String>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalHypothesis index="0">
+        <GlobalHypothesisClassReference kbPartName="User" index="3" />
+      </ContextHypothesisClassReferenceForGlobalHypothesis>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="30" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> tampers with his phone by rooting</String>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="1">
+        <GlobalArgumentClassReference kbPartName="User" index="6" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="31" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E1 Norton is secure" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="33" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E3 Dashlane pros" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="35" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E5 Hard to replicate" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="36" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E6 Easier to crack" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="37" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E7 Unique identification" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="38" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E8 Photos can unlock phones" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="42" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets off </String>
+          <OntologyEntity>
+            <InstanceReference name="Android Pie" />
+          </OntologyEntity>
+          <String> security update</String>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="5">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="43" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> sets off </String>
+          <OntologyEntity>
+            <InstanceReference name="Gmail" />
+          </OntologyEntity>
+          <String> app update</String>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="9">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="48" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="APKMirror" />
+          </OntologyEntity>
+          <String> cause data leaks</String>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="5">
+        <GlobalArgumentClassReference kbPartName="User" index="4" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="APKMirror" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="49" negation="false">
+      <NLPattern>
+        <Fragments>
+          <String>Pirated games contains virus</String>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="5">
+        <GlobalArgumentClassReference kbPartName="User" index="5" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Mario" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="50" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E12 Virus risk" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="51" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E11 Data Leaks" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="52" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E9 Issues in older versions" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="53" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E10 Security updates" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="56" negation="false">
+      <NLPattern>
+        <Fragments>
+          <String>SuperUser is found in </String>
+          <OntologyEntity>
+            <InstanceReference name="Bob" />
+          </OntologyEntity>
+          <String> phone</String>
+        </Fragments>
+      </NLPattern>
+      <ContextHypothesisClassReferenceForGlobalArgument index="3">
+        <GlobalArgumentClassReference kbPartName="User" index="6" />
+      </ContextHypothesisClassReferenceForGlobalArgument>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="57" negation="false">
+      <NLPattern>
+        <Fragments>
+          <OntologyEntity>
+            <InstanceReference name="E13 SuperUser is installed" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+    </HypothesisExample>
+</HypothesisExamples>
+<ArgumentStepExamples>
+<ArgumentStepExample version="1.0" index="4" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="0" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="5" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="5" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="5" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="6" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="0">
+        <GlobalArgumentClassReference kbPartName="User" index="0" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Norton" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="6" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="6" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="7" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="2">
+        <GlobalArgumentClassReference kbPartName="User" index="0" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Norton" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="7" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="5" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="9" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="0">
+        <GlobalArgumentClassReference kbPartName="User" index="1" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Dashlane" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="8" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="9" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="8" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="2">
+        <GlobalArgumentClassReference kbPartName="User" index="1" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Dashlane" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="10" favoring="false">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="0" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="11" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="14" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="11" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="15" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="0">
+        <GlobalArgumentClassReference kbPartName="User" index="4" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="APKMirror" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="15" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="15" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="16" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="2">
+        <GlobalArgumentClassReference kbPartName="User" index="4" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="APKMirror" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="16" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="11" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="17" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="0">
+        <GlobalArgumentClassReference kbPartName="User" index="5" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Mario" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="18" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="very likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="17" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="19" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="2">
+        <GlobalArgumentClassReference kbPartName="User" index="5" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Mario" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="19" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="very likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="0" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="20" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="20" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="20" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="25" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="0">
+        <GlobalArgumentClassReference kbPartName="User" index="2" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="23" favoring="false">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="more than likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="20" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="24" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="0">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="24" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="25" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="21" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="2">
+        <GlobalArgumentClassReference kbPartName="User" index="2" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="25" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="25" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="26" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="4">
+        <GlobalArgumentClassReference kbPartName="User" index="2" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="26" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="very likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="24" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="27" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="2">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="27" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="more than likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="24" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="28" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="6">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="28" favoring="false">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="0" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="29" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="29" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="very likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="29" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="30" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="0">
+        <GlobalArgumentClassReference kbPartName="User" index="6" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="30" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="7" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="31" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="32" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="8" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="33" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="34" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="21" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="35" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="35" favoring="false">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="barely likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="21" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="36" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="36" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="26" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="37" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="37" favoring="false">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="barely likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="26" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="38" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="41" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="27" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="42" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="4">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="42" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="28" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="43" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="8">
+        <GlobalArgumentClassReference kbPartName="User" index="3" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Android Pie" />
+        <FormalParameterReference name="?O3" />
+        <InstanceReference name="Gmail" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="47" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="16" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="48" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="4">
+        <GlobalArgumentClassReference kbPartName="User" index="4" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="APKMirror" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="48" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="19" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="49" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="4">
+        <GlobalArgumentClassReference kbPartName="User" index="5" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+        <FormalParameterReference name="?O2" />
+        <InstanceReference name="Mario" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="49" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="barely likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="49" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="50" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="50" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="likely" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="48" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="51" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="51" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="42" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="52" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="52" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="43" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="53" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="55" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="30" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="56" />
+      </SubHypotheses>
+      <ContextArgumentClassReference index="2">
+        <GlobalArgumentClassReference kbPartName="User" index="6" />
+      </ContextArgumentClassReference>
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="?O1" />
+        <InstanceReference name="Bob" />
+      </ConstantInstantiatedFormalParameters>
+    </ArgumentStepExample>
+<ArgumentStepExample version="1.0" index="56" favoring="true">
+      <DiscipleReferencedBeliefValue system="Likeliness 6 System" name="almost certain" />
+      <HypothesisExampleReference version="1.0" kbPartName="Scen" index="56" />
+      <SubHypotheses>
+        <HypothesisExampleReference version="1.0" kbPartName="Scen" index="57" />
+      </SubHypotheses>
+    </ArgumentStepExample>
+</ArgumentStepExamples>
+<EvidenceAssociationMap>
+    <hypothesisEvidenceAssociationList />
+  </EvidenceAssociationMap>
+</SituationKB>

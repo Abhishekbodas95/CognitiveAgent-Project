@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<KBDescription name="Scen" type="likeliness" major="0" minor="0" revision="0" canCommit="false" imported="false">
+  <instructions>
+    <header />
+    <step>
+      <splitstep>
+        <details>
+          <actionheader>Focus on the question
+          </actionheader>
+          <description>Start by identifying the core issue that is at the heart of the question being asked.
+          </description>
+          <action>
+            <example>
+              &lt;br>&lt;b>Intent:&lt;/b>
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Is&lt;/b>&lt;/font> Outlandia planning to develop nuclear weapons?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;b>Responsibility/Culpability:&lt;/b>
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Is&lt;/b>&lt;/font> the defense minister involved in coup planning?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Did&lt;/b>&lt;/font> the terrorist group named Revolution plant the bomb?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Is&lt;/b>&lt;/font> Outlandia assisting a terrorist group?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;b>Capability:&lt;/b>
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Does&lt;/b>&lt;/font> Outlandia have an intercontinental ballistic missile?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Did&lt;/b>&lt;/font> the terrorist group Revolution have the ability to conduct a certain terrorist attack?
+            </example>Single-hypothesis (yes/no) questions often begin with a verb and refer to &lt;b>intent&lt;/b>, &lt;b>responsibility/culpability&lt;/b>, or &lt;b>capability&lt;/b>.
+            </action>
+          <description>Always stay focused on answering the question that is being asked. Do not allow the analysis to go off on a tangent. Asking whether a country has the capability to build a missile and asking whether it has the missile are two different questions. In many single-hypothesis questions, &lt;b>motive&lt;/b>, &lt;b>method&lt;/b>, and &lt;b>identification&lt;/b> may be a key part of the underlying argumentation that supports a "yes" or "no" answer, but they are not the answer.
+          </description>
+          <action>
+            <example>
+              &lt;br>&lt;b>Motive:&lt;/b>
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Why&lt;/b>&lt;/font> did the country Outlandia invade the country Hermania?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Why&lt;/b>&lt;/font> did Outlandia withdraw from the UN?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;b>Method:&lt;/b>
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>How&lt;/b>&lt;/font> did a terrorist organization acquire a nuclear weapon?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>What&lt;/b>&lt;/font> caused the airliner to crash?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;b>Identification:&lt;/b>
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>What&lt;/b>&lt;/font> developmental aircraft is the country Outlandia going to select for its next generation fighter?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Who&lt;/b>&lt;/font> will Outlandia's president pick to be the next foreign minister?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>What&lt;/b>&lt;/font> is the purpose of Outlandia's secret underground facility?
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font color="blue">&lt;b>Which&lt;/b>&lt;/font> terrorist group planted the bomb?
+            </example>Multiple-hypotheses questions often begin with an adverb or adjective, and refer to &lt;b>motive&lt;/b>, &lt;b>method&lt;/b>, or &lt;b>identification&lt;/b>.
+            </action>
+          <description>Framing a core issue around a single concept such as &lt;b>why&lt;/b>, &lt;b>how&lt;/b>, &lt;b>what&lt;/b>, &lt;b>who&lt;/b>, and &lt;b>which&lt;/b> will help you to identify possible hypotheses to multiple-hypotheses questions. It will also help you to remain focused on the question at hand and it constrains possible answers to the question. The hypotheses you develop should directly answer this core issue. There should be no intervening concept.
+          </description>
+        </details>Focus on the question
+        </splitstep>
+    </step>
+    <step>
+      <splitstep>
+        <details>
+          <actionheader>Review the available information to identify possible hypotheses
+          </actionheader>
+          <description>The initial review of available information should be conducted primarily to become familiar with the information. Having a complete grasp of all the information and the details is critical. A single pass through the available information is not sufficient.
+          </description>
+          <description>If the question is a multiple-hypotheses question, the initial review of the available information should begin the assimilation of the available information primarily in order to establish possible hypotheses.
+          </description>
+          <action>
+            <example>
+              &lt;br>Does Outlandia have chemical weapons?
+              &lt;br>Outlandia does not have chemical weapons.
+            </example>For a yes/no question, consider as hypothesis the answer that appears more likely, but formulate it as a complete sentence, rather then yes or no.
+            </action>
+          <action>
+            <example>
+              &lt;br>&lt;font size="3">&amp;bull;&lt;font size="4"> The problem for the question "&lt;font color="blue">&lt;b>Why&lt;/b>&lt;/font> did the country Outlandia invade the country Hermania?" might include information that Hermania threatened Outlandia or information that Hermania's president had just won election on a platform that characterized Outlandia as a major threat.
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font size="3">&amp;bull;&lt;font size="4"> The problem for the question "&lt;font color="blue">&lt;b>Who&lt;/b>&lt;/font> will Outlandia's president pick to be the next foreign minister?" might include information that the president is very close to the deputy foreign minister or despises the deputy foreign minister. In the former case, the information constitutes a favoring argument, and in the latter case, a disfavoring argument.
+            </example>For almost all &lt;b>motive&lt;/b> and &lt;b>method&lt;/b> questions, as well as some &lt;b>identification&lt;/b> questions, the range of possible hypotheses will need to be inferred from the available information.
+            </action>
+          <action>
+            <example>
+              &lt;br>&lt;font size="3">&amp;bull;&lt;font size="4"> The problem for the question "&lt;font color="blue">&lt;b>Which&lt;/b>&lt;/font> submarine prototype will Outlandia choose to develop for its next-generation attack submarine?" may specify that only three submarine prototypes are &lt;b>known&lt;/b> or &lt;b>believed&lt;/b> or &lt;b>reported&lt;/b> to exist. The language "known or believed or reported" should be a red flag.
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font size="3">&amp;bull;&lt;font size="4"> Some &lt;b>identification&lt;/b> problems may include reliable information that is inconsistent with the information on the number of submarine prototypes reported or believed to exist, and you may have to expand the number of hypotheses to consider an unknown submarine prototype. For example, if you have reliable information that Outlandia wants a submarine with two main propeller screws and none of the known submarine prototypes have two screws, another hypothesis may need to be added to the list.
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;font size="3">&amp;bull;&lt;font size="4"> If the problem states as a fact that only three submarine prototypes exist, you can assume this information is accurate.
+            </example>For some &lt;b>identification&lt;/b> questions, the set of possible hypotheses may at first glance appear to be limited to a predetermined set of solutions identified in the available information. Remain skeptical that this list is exhaustive unless this set of possibilities is stated as fact in the problem.
+            </action>
+        </details>Review the available information to identify possible hypotheses
+        </splitstep>
+    </step>
+    <step>
+      <splitstep>
+        <details>
+          <actionheader>Evaluate the available information to assess its significance
+          </actionheader>
+          <description>Review the available information again. Focus this time on the diagnosticity of each piece of available information.
+          &lt;br>&lt;font size="3">&amp;emsp;&amp;bull;&lt;font size="4"> Does the information favor a hypothesis?
+          &lt;br>&lt;font size="3">&amp;emsp;&amp;bull;&lt;font size="4"> Does the information disfavor a hypothesis?
+          &lt;br>&lt;font size="3">&amp;emsp;&amp;bull;&lt;font size="4"> Does the information appear relevant but it is not clear at first glance whether the information favors or disfavors a hypothesis?
+          &lt;br>&lt;font size="3">&amp;emsp;&amp;bull;&lt;font size="4"> Is the information irrelevant to the hypotheses? If you conclude this, a good question to ask yourself is: Are you sure?
+          </description>
+          <description>The first step in evaluating the diagnosticity of the available information is to ask yourself: What is this information saying about the hypothesis? In some cases, the information will be explicit: The terrorist group Revolution planted the bomb. In other cases, the information will not be as explicit. You will need to pause and ponder the significance of this information and how the information might be relevant to the question at hand. Do not speed read your way through the available information looking only for a "smoking gun."
+          </description>
+          <description>When you evaluate whether information is consistent or inconsistent with a hypothesis and, more importantly, how or why the information is consistent or inconsistent, you begin to establish the building blocks for the argumentation that will eventually answer the question. Without these generalizations on "how" and "why," the argument can appear as a random set of facts and lack coherence.
+          </description>
+          <action>
+            <example>
+              &lt;br>The Cogent diagram below is assessing whether a surface-to-air missile (SAM) has a certain capability regarding its range. There is information that notes a longer range SAM is scheduled to complete development by a certain date in the future. The question becomes whether the timeline for this SAM could be accelerated, and the next question becomes whether there is information that relates to this issue of accelerated development. There is, and that information relates to funding.
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;img src="file:3a.png">
+            </example>In some cases, establishing how or why information is consistent or inconsistent with a hypothesis may require building a chain of arguments that shows how the information being evaluated relates to a hypothesis through a series of steps. Each step in this argument chain needs to be recorded as you are evaluating the information in question. You will need this analysis when building the Cogent diagram. Information that appears relevant, but non-diagnostic at first glance, usually requires a chain of intermediate arguments to show how this information is relevant.
+            </action>
+          <description>When information appears relevant but it is not clear whether the information favors or disfavors a hypothesis, ask yourself why it is not clear, and then look for information in the problem that might relate to this issue. Such information, if it is available, may help determine whether the information in question is favoring or disfavoring the hypothesis.
+          </description>
+          <action>
+            <example>
+              &lt;br>Mary saying she believes John stole the car is not the same as Mary saying John told her that he stole the car.
+            </example>Pay attention to the details. Every word in every piece of available information is important.
+            </action>
+          <action>
+            <example>
+              &lt;br>If one source says John and Paul work at the same but unspecified organization, and another source says Paul and Bill work for the World Development Group, the information taken together establishes that John works for the World Development Group.
+            </example>Details can help you connect information from different sources that provides useful information to answering the question. Look for these possible connections. You may use "pen and paper" and arrows to identify these possible connections.
+            </action>
+          <action>
+            <example>
+              &lt;br>If a source three years ago said that the country Outlandia was planning to develop nuclear weapons, some of the relevance of this information has to be discounted, especially if you have reliable information that is more current that says Outlandia is still weighing whether to develop nuclear weapons.
+            </example>Pay attention to dates. Dates can be useful in determining the relevance of the available information.
+            </action>
+        </details>Evaluate the available information to assess its significance
+        </splitstep>
+    </step>
+    <step>
+      <splitstep>
+        <details>
+          <actionheader>Start to build the Cogent argumentation
+          </actionheader>
+          <description>Separate the favoring arguments from the disfavoring arguments. &lt;i>When there is disfavoring evidence or you suspect there may be disfavoring evidence, the best approach is to prepare the Cogent diagram without inserting any disfavoring evidence.&lt;/i> It is not always easy to properly insert that evidence into the correct place in the argument until you have an argument and different sub-hypotheses for which there may be a counter sub-hypothesis and counter evidence.
+          </description>
+          <action>
+            <example>
+              &lt;br>&lt;img src="file:4a.png">
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">Note the "and" argument above. Both sub-hypotheses have to be true for the upper-level reason to be true. "And" arguments occur when you have multiple components of a sub-hypothesis (as illustrated above): John was wearing a hat and witnesses said John was wearing a hat. "And" arguments also occur when a series of pre-requisites or conditions are required that taken together are sufficient to establish a basis for the upper-level argument to be true.
+            </example>Using your assessments on &lt;b>how&lt;/b> or &lt;b>why&lt;/b> certain information is consistent with the hypothesis under consideration, identify your main reasons for the hypothesis being true. Information that shares the same significance (how or why) should be considered together. This information independently provides a basis for whatever sub-hypothesis is being formulated at that point in the argument. Working downward in the Cogent diagram, lay out the argument one reason at a time. Follow each element in the argument completely down to the evidentiary base and then return to the highest unfinished element or tree in the argument.
+            </action>
+          <action>
+            <example>
+              &lt;br>&lt;img src="file:4b.png">
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">Note the alternative arguments (or reasons) for the top hypothesis. It is enough one such argument to be true for the top hypothesis to be true. Alternative arguments occur when you have independent reasons for a hypothesis (as illustrated above): "John was wearing the same clothes as the person who witnesses say robbed the bank" is one reason. "John began to buy expensive items that he could not afford soon after the robbery" is an alternative independent reason.
+            </example>Then move to the next reason and build the underlying argumentation for it.
+            </action>
+        </details>Start to build the Cogent argumentation
+        </splitstep>
+    </step>
+    <step>
+      <splitstep>
+        <details>
+          <actionheader>Complete the favoring argumentation
+          </actionheader>
+          <action>
+            <example>
+              &lt;br>A key assumption that is missing in this example is the assumption that John cannot afford the items he bought. This assumption needs to be explicitly inserted into the argumentation. It is a crucial part of the argumentation and it will change its structure as illustrated below:
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;img src="file:5a.png">
+            </example>Review the assembled Cogent argumentation for logic and consistency. A key part of this review is to determine whether the arguments as assembled are sufficient and whether there are any hidden assumptions that need to be inserted into the argumentation for the argument to make sense.
+            </action>
+        </details>Complete the favoring argumentation
+        </splitstep>
+    </step>
+    <step>
+      <splitstep>
+        <details>
+          <actionheader>Insert the disfavoring arguments
+          </actionheader>
+          <action>
+            <example>
+              &lt;br>Let's assume we now have information that John is the son of a millionaire. That would be disfavoring evidence for the statement that John cannot afford to buy expensive items.
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">&lt;img src="file:6a.png">
+            </example>Insert disfavoring arguments into the Cogent diagram.
+            </action>
+          <description>After you have inserted the disfavoring arguments, review the entire Cogent diagram again for logic and consistency.
+          </description>
+        </details>Insert the disfavoring arguments
+        </splitstep>
+    </step>
+    <step>
+      <splitstep>
+        <details>
+          <actionheader>Evaluate the relevance of the available information
+          </actionheader>
+          <description>After the structure of the Cogent diagram is complete, the next step is to assess the relevance of each sub-hypothesis and item of evidence in the diagram. The relevance indicates how strongly this item supports a specific hypothesis in the argument.
+          </description>
+          <description>Relevance depends on: how recent is the evidence, how unambiguous is it, and how conclusive is the link between the evidence and the hypothesis. The evidence may be unambiguous but it may support more than one hypothesis.
+          </description>
+          <description>We can assess the relevance by answering the question: Assuming that the evidence or sub-hypothesis is true, what is the probability that the hypothesis above this evidence or sub-hypothesis is true?
+          </description>
+          <action>
+            <example>
+              &lt;br>&lt;img src="file:7a.png">
+            </example>When we have evidence about a fact and the hypothesis is the fact itself, the relevance of evidence is certain. Indeed, if we assume that the evidence is true, then the hypothesis is true.
+            </action>
+          <action>
+            <example>
+              &lt;br>&lt;img src="file:7b.png">
+            </example>A similar case is an "and" argument where the hypothesis has exactly the same meaning as the collection of its sub-hypotheses.
+            </action>
+          <action>
+            <example>
+              &lt;br>&lt;img src="file:7c.png">
+              &lt;br>&lt;font size="1">&lt;br>&lt;font size="4">If John was wearing the same clothes as the person who witnesses say robbed the bank, does this mean we are certain John robbed the bank? Obviously, no, we are not. This is a very weak argument from the perspective of the argument's relevance.
+            </example>The sub-hypothesis may not be conclusive for the hypothesis and therefore its relevance should be less than certain.
+            </action>
+          <action>
+            <example>
+              &lt;br>If Peter says he saw someone who looks like John, does that mean he saw John? Obviously, no. There is some uncertainty.
+            </example>The relevance of information from a human source often depends on exactly what the source said he/she observed.
+            </action>
+          <action>
+            <example>
+              &lt;br>Imagery of 60% of an airfield showed no planes at the airfield. In this situation, the relevance of the information to the argument that no planes are at the airfield would be assessed as "likely", which has a probability interval of 55-70%.
+            </example>The relevance of information from technical collection systems often depends on the extent of the coverage of the technical system. The extent of coverage can vary according to spatial or time considerations.
+            </action>
+        </details>Evaluate the relevance of the available information
+        </splitstep>
+    </step>
+    <step>
+      <splitstep>
+        <details>
+          <actionheader>Evaluate the credibility of the available information
+          </actionheader>
+          <description>The last step is to evaluate the credibility of the information used in the Cogent argumentation. The &lt;b>credibility&lt;/b> of an item of evidence is the extent to which the evidence may be believed. This assessment can be influenced by many things, including doubts about the source's veracity, the source's access, or by more credible information that contradicts the evidence being evaluated.
+          </description>
+          <description>When evaluating the credibility of a human source, two good questions are:
+          </description>
+          <action>
+            <example>
+              &lt;br>A source may have an underlying cause to be less than completely honest if:
+              &lt;br>&lt;font size="3">&amp;emsp;&amp;bull;&lt;font size="4"> the source is a stakeholder in whatever issue is under consideration;
+              &lt;br>&lt;font size="3">&amp;emsp;&amp;bull;&lt;font size="4"> the source is a political opponent or ally of the subject of the reporting;
+              &lt;br>&lt;font size="3">&amp;emsp;&amp;bull;&lt;font size="4"> the source or someone in the source's family experienced hardship at the expense of the subject of the reporting.
+            </example>Does the source have any reason to be less than completely honest? The credibility of a reliable source with excellent access can be considered "very likely" (80-95%). The credibility of a source who has an underlying cause to be less than completely honest needs to be adjusted downwards.
+            </action>
+          <action>
+            <example>
+              &lt;br>Reporting from a &lt;b>source who was at the meeting&lt;/b> would have more credibility than reporting from &lt;b>a source who received the information from someone who was at the meeting&lt;/b>, and the latter reporting would have more credibility than reporting from &lt;b>a source who received the information from an individual who received the information from another individual who was at the meeting&lt;/b>.
+            </example>Is the source in a position to know what he/she claims to know? Another way to think of this is: does the source have direct access to the information or did the source acquire the information third- or fourth hand?
+            </action>
+          <description>When evaluating the credibility of measurements from radars or space sensors, the most important question becomes:
+          </description>
+          <action>
+            <example>
+              &lt;br>The credibility is certain or almost certain if the measurement equipment  is operating properly. The credibility is adjusted downward depending on the extent to which the measurement equipment is not operating properly. For example, the credibility of information from a radar that is only 60 percent accurately calibrated is only likely.
+            </example>Is the measurement equipment operating properly?
+            </action>
+        </details>Evaluate the credibility of the available information
+        </splitstep>
+    </step>
+  </instructions>
+</KBDescription>
